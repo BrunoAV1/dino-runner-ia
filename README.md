@@ -36,7 +36,7 @@ Ela recebe **recompensa positiva ao sobreviver** e **penalização ao colidir**,
 ### 1️⃣ Clone o repositório  
 
 ```bash
-git clone https://github.com/seuusuario/dino-runner-ia.git
+git clone https://github.com/BrunoAV1/dino-runner-ia.git
 cd dino-runner-ia
 ```
 
