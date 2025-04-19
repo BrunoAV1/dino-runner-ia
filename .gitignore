@@ -1,0 +1,25 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# Arquivos de sistema do VSCode (se estiver usando)
+.vscode/
+
+# Arquivos de log / temporários
+*.log
+*.pkl
+*.sav
+
+# Cache de testes
+.cache/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Checkpoint de modelagem (se houver depois)
+*.ckpt
